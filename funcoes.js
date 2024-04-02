@@ -8,3 +8,5 @@ function exibeInfosNomeEstudante (nome,nota) {
 
 console.log(exibeInfosNomeEstudante ("Caroline", 10));
 console.log(exibeInfosNomeEstudante ("Ana", 7)); 
+
+// hoisting
