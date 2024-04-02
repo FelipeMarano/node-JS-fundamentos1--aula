@@ -2,7 +2,7 @@ const notaFinal = 6;
 const faltas = 2;
 const advertencias = 0;
 
-if (notaFinal < 7 && faltas > 4) {
+if (notaFinal < 7 && faltas > 4) { // && = "e" // || = "ou"
   console.log('reprovado, boas festas');
 } else {
   console.log('não foi reprovado por falta');

@@ -1,6 +1,6 @@
 const estaAprovado = true;
 
-if (estaAprovado === true) {
+if (estaAprovado === true) { // sempre usar o "===" e não o "=="
   console.log('aprovado');
 }
 
